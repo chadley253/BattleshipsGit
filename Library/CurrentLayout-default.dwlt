@@ -103,7 +103,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 63
+  controlID: 21
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 130
+  controlID: 70
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -410,21 +410,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources/Scripts
+    - Assets
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Resources/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: S:\Games\UNITY\BattleshipGit
+  m_LastProjectPath: S:\GIT\BattleshipsGit
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a3c0000
-    m_LastClickedID: 15466
-    m_ExpandedIDs: 000000005e3c0000663c000000ca9a3b
+    m_SelectedIDs: 5e3c0000
+    m_LastClickedID: 15454
+    m_ExpandedIDs: 000000005e3c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
